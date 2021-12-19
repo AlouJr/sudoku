@@ -1,0 +1,33 @@
+#puzzle {
+    height: 450px;
+    width: 450px;
+}
+
+
+#puzzle input {
+    width: 50px;
+    height: 50px;
+    box-sizing: border-box;
+    border: 1px  grey solid;
+    border-spacing: 0ch;
+}
+
+#solve-btn {
+    padding: 1rem;
+    background-color: brown;
+    border: none;
+    color: white;
+    margin: 0.5rem;
+    cursor: pointer;
+
+}
+
+#nav {
+    height: 120px;
+    background-color: cyan;
+    align-items: center;
+}
+
+#title {
+    text-align: center;
+}
